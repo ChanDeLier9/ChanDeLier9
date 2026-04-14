@@ -7,33 +7,29 @@
 ---
 
 ### 💫 About Me
-- 🔭 I’m currently working on **CampusTrade** (Java) and **HTTPserver** (C).
-- ⚡ **Technical Focus:** Backend Development (Java/C), Frontend (Vue), and System Infrastructure.
-- 🎯 **Current Goal:** Building high-performance and scalable systems.
-- 🧩 **Recent Project:** Developed a lightweight HTTP server from scratch using C.
+- 🔭 **Focusing on:** 医疗信息化系统 (PDAD)、高并发后端架构。
+- ⚡ **Technical Skills:** Java (Spring Boot), C (Network), Vue.js.
+- 🎯 **Career Goal:** 构建高性能、高可用性的行业解决方案。
 
 ---
 
 ### 📊 GitHub Stats
+
 <p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=ChanDeLier9&show_icons=true&include_all_commits=true&theme=radical&hide_border=true" alt="ChanDeLier9's GitHub stats" />
-  </a>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ChanDeLier9&show_icons=true&include_all_commits=true&theme=radical&hide_border=true" alt="ChanDeLier9's GitHub stats" />
   <br/><br/>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChanDeLier9&layout=compact&theme=radical&hide_border=true" alt="Top Langs" />
-  </a>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChanDeLier9&layout=compact&theme=radical&hide_border=true" alt="Top Langs" />
 </p>
 
 ---
 
-### 🚀 Top Projects
+### 🚀 Key Projects (Priority)
 
-| Project | Description | Tech Stack |
-| :--- | :--- | :--- |
-| **[HTTPserver](https://github.com/ChanDeLier9/HTTPserver)** | 自研轻量级 HTTP 服务，深入理解底层网络协议。 | `C` `Network Programming` |
-| **[CampusTrade](https://github.com/ChanDeLier9/CampusTrade)** | 校园二手交易平台，处理高并发与业务逻辑。 | `Java` `Spring` |
-| **[PDAD-system](https://github.com/ChanDeLier9/PDAD-system-HealthArticle)** | 心理疾病辅助诊疗系统，负责健康文章模块。 | `Vue` `Frontend` |
+| Priority | Project | Description & My Role | Tech Stack |
+| :--- | :--- | :--- | :--- |
+| **01** | **[PDAD-system](https://github.com/ChanDeLier9/PDAD-system-HealthArticle)** | **心理疾病辅助诊疗系统**：核心开发成员，负责**医生工作站**与**病历系统**的模块化设计与实现。 | `Vue` `Spring Boot` |
+| **02** | **[CampusTrade](https://github.com/ChanDeLier9/CampusTrade)** | **校园二手交易平台**：基于 Spring 的高并发架构实践，优化商品检索与交易流程。 | `Java` `MyBatis` `MySQL` |
+| **03** | **[HTTPServer](https://github.com/ChanDeLier9/HTTPserver)** | **自研轻量级 HTTP 服务器**：底层网络编程实践，通过 C 语言实现基本的 Web 服务响应机制。 | `C` `Linux` `Socket` |
 
 ---
 
@@ -43,16 +39,16 @@
   <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" />
   <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" />
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 </p>
 
 ---
 
-### 📈 My GitHub Streak
+### 📈 Contribution Streak
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ChanDeLier9&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <p align="right">
-  <i>"Keep coding and stay focused."</i> 🎯
+  <i>"专注底层逻辑，构建高效系统。"</i> 🎯
 </p>
